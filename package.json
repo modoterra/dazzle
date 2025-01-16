@@ -2,6 +2,7 @@
   "name": "dazzle",
   "displayName": "Dazzle",
   "description": "A dazzling color theme.",
+  "publisher": "modoterra",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.96.0"
@@ -10,6 +11,12 @@
     "type": "git",
     "url": "https://github.com/modoterra/dazzle.git"
   },
+  "bugs": {
+    "url": "https://github.com/modoterra/dazzle/issues",
+    "email": "oss@modoterra.xyz"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md",
   "categories": [
     "Themes"
   ],
