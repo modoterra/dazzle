@@ -1,0 +1,30 @@
+{
+  "name": "dazzle",
+  "displayName": "Dazzle",
+  "description": "A dazzling color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/modoterra/dazzle.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dazzle Light",
+        "uiTheme": "vs",
+        "path": "./themes/dazzle-light.json"
+      },
+      {
+        "label": "Dazzle Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dazzle-dark.json"
+      }
+    ]
+  }
+}

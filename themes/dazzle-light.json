@@ -1,0 +1,68 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "Dazzle Light",
+  "colors": {
+    "editor.background": "#ffffff",
+    "editor.foreground": "#17181d",
+    "activityBar.background": "#ffffff",
+    "activityBar.foreground": "#17181d",
+    "editorGroupHeader.tabsBackground": "#ececec",
+    "panel.background": "#ececec",
+    "sideBar.background": "#ececec",
+    "statusBar.background": "#ececec",
+    "statusBar.foreground": "#17181d",
+    "tab.activeBackground": "#ffffff",
+    "tab.activeBorderTop": "#00acd7",
+    "tab.border": "#ececec",
+    "tab.inactiveBackground": "#ececec",
+    "titleBar.activeBackground": "#ffffff",
+    "titleBar.inactiveBackground": "#ffffff"
+  },
+  "tokenColors": [
+    {
+      "scope": "comment",
+      "settings": {
+        "foreground": "#17181d"
+      }
+    },
+    {
+      "scope": [
+        "punctuation.definition.comment",
+        "punctuation.section.embedded.begin"
+      ],
+      "settings": {
+        "foreground": "#98a0a3"
+      }
+    },
+    {
+      "scope": ["keyword", "punctuation.terminator", "support.type"],
+      "settings": {
+        "foreground": "#e24867"
+      }
+    },
+    {
+      "scope": ["entity", "support"],
+      "settings": {
+        "foreground": "#00acd7"
+      }
+    },
+    {
+      "scope": ["punctuation.definition.variable", "storage"],
+      "settings": {
+        "foreground": "#c68a1c"
+      }
+    },
+    {
+      "scope": ["string", "punctuation.definition.string"],
+      "settings": {
+        "foreground": "#37a733"
+      }
+    },
+    {
+      "scope": ["constant"],
+      "settings": {
+        "foreground": "#af4cdf"
+      }
+    }
+  ]
+}
