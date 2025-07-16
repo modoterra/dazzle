@@ -12,9 +12,11 @@
     "statusBar.background": "#ececec",
     "statusBar.foreground": "#17181d",
     "tab.activeBackground": "#ffffff",
+    "tab.activeForeground": "#17181d",
     "tab.activeBorderTop": "#00acd7",
     "tab.border": "#ececec",
     "tab.inactiveBackground": "#ececec",
+    "tab.inactiveForeground": "#666666",
     "titleBar.activeBackground": "#ffffff",
     "titleBar.inactiveBackground": "#ffffff"
   },
