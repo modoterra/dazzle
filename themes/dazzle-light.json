@@ -63,6 +63,22 @@
       "settings": {
         "foreground": "#af4cdf"
       }
+    },
+    {
+      "scope": [
+        "punctuation.definition.block",
+        "punctuation.definition.brace",
+        "punctuation.definition.brackets",
+        "punctuation.section.block",
+        "punctuation.section.brace",
+        "punctuation.section.brackets",
+        "meta.brace",
+        "punctuation.definition.parameters",
+        "punctuation.section.parameters"
+      ],
+      "settings": {
+        "foreground": "#17181d"
+      }
     }
   ]
 }
