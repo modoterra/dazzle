@@ -63,6 +63,22 @@
       "settings": {
         "foreground": "#af4cdf"
       }
+    },
+    {
+      "scope": [
+        "meta.export variable.other.readwrite",
+        "meta.export entity.name.function",
+        "meta.export entity.name.class",
+        "meta.export entity.name.type",
+        "variable.other.readwrite.alias",
+        "variable.other.object",
+        "entity.name.function.export",
+        "entity.name.class.export",
+        "variable.language.default.export"
+      ],
+      "settings": {
+        "foreground": "#00acd7"
+      }
     }
   ]
 }
