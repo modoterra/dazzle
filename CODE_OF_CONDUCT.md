@@ -43,6 +43,14 @@ that are not aligned to this Code of Conduct, or to ban temporarily or
 permanently any contributor for other behaviors that they deem inappropriate,
 threatening, offensive, or harmful.
 
+## Maintainer Authority
+
+Modoterra Corporation and its designated maintainers have sole and final discretion to interpret, apply, and enforce this Code of Conduct.
+
+To the maximum extent permitted by law, Modoterra Corporation may take any action it deems appropriate in response to conduct it considers harmful, disruptive, unsafe, unlawful, or inconsistent with project goals, including but not limited to warning, content removal, issue or pull request closure, contribution rejection, temporary suspension, permanent ban, or escalation to legal authorities.
+
+Enforcement decisions are final.
+
 ## Scope
 
 This Code of Conduct applies both within project spaces and in public spaces
