@@ -19,8 +19,8 @@
   "scripts": {
     "package": "vsce package --out build/"
   },
-  "license": "SEE LICENSE IN LICENSE.md",
-  "homepage": "https://github.com/microsoft/vscode-wordcount/blob/main/README.md",
+  "license": "MIT",
+  "homepage": "https://github.com/modoterra/dazzle",
   "categories": [
     "Themes"
   ],

@@ -1,49 +1,28 @@
-# Contributor Covenant Code of Conduct
+# Code of Conduct
 
-## Our Pledge
+## Our Commitment
 
-In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
-our community a harassment-free experience for everyone, regardless of age, body
-size, disability, ethnicity, gender identity and expression, level of experience,
-education, socio-economic status, nationality, personal appearance, race,
-religion, or sexual identity and orientation.
+We are committed to a respectful, harassment-free community focused on building useful software together.
 
-## Our Standards
+## Expected Behavior
 
-Examples of behavior that contributes to creating a positive environment
-include:
+- Be respectful, constructive, and specific.
+- Assume good intent while reviewing technical decisions critically.
+- Focus on ideas and implementation, not personal attacks.
+- Welcome contributors with different backgrounds and experience levels.
 
-- Using welcoming and inclusive language
-- Being respectful of differing viewpoints and experiences
-- Gracefully accepting constructive criticism
-- Focusing on what is best for the community
-- Showing empathy towards other community members
+## Unacceptable Behavior
 
-Examples of unacceptable behavior by participants include:
+- Harassment, discrimination, or hateful conduct.
+- Personal insults, intimidation, or sustained hostility.
+- Publishing private information without explicit consent.
+- Deliberate disruption of community collaboration.
 
-- The use of sexualized language or imagery and unwelcome sexual attention or
-  advances
-- Trolling, insulting/derogatory comments, and personal or political attacks
-- Public or private harassment
-- Publishing others' private information, such as a physical or electronic
-  address, without explicit permission
-- Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+## Scope
 
-## Our Responsibilities
+This code of conduct applies in repository spaces and project communication channels where contributors represent this project.
 
-Project maintainers are responsible for clarifying the standards of acceptable
-behavior and are expected to take appropriate and fair corrective action in
-response to any instances of unacceptable behavior.
-
-Project maintainers have the right and responsibility to remove, edit, or
-reject comments, commits, code, wiki edits, issues, and other contributions
-that are not aligned to this Code of Conduct, or to ban temporarily or
-permanently any contributor for other behaviors that they deem inappropriate,
-threatening, offensive, or harmful.
-
-## Maintainer Authority
+## Enforcement
 
 Modoterra Corporation and its designated maintainers have sole and final discretion to interpret, apply, and enforce this Code of Conduct.
 
@@ -51,31 +30,8 @@ To the maximum extent permitted by law, Modoterra Corporation may take any actio
 
 Enforcement decisions are final.
 
-## Scope
+## Reporting
 
-This Code of Conduct applies both within project spaces and in public spaces
-when an individual is representing the project or its community. Examples of
-representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
-representative at an online or offline event. Representation of a project may be
-further defined and clarified by project maintainers.
+If you experience or witness unacceptable behavior, report it privately to project maintainers at [oss@modoterra.xyz](mailto:oss@modoterra.xyz).
 
-## Enforcement
-
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at oss@modoterra.xyz. All
-complaints will be reviewed and investigated and will result in a response that
-is deemed necessary and appropriate to the circumstances. The project team is
-obligated to maintain confidentiality with regard to the reporter of an incident.
-Further details of specific enforcement policies may be posted separately.
-
-Project maintainers who do not follow or enforce the Code of Conduct in good
-faith may face temporary or permanent repercussions as determined by other
-members of the project's leadership.
-
-## Attribution
-
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
-available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
-
-[homepage]: https://www.contributor-covenant.org
+Please include as much detail as possible so maintainers can investigate appropriately.
